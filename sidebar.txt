@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xao:home|Door43 (xao)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xao|d43-xao repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xao/archive/master.zip|d43-xao.zip]]
+
+**Recent Changes**
+{{changes>ns = xao}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xao|Ethnologue data]]
+
